@@ -1,0 +1,218 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250) (preloaded format=pdflatex 2019.12.16)  20 JAN 2020 09:37
+entering extended mode
+**./TEAM_1082.tex
+(TEAM_1082.tex
+LaTeX2e <2019-10-01> patch level 3
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\BLACK PEARL\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(TEAM_1082.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `TEAM_1082.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 9
+.
+ ("C:\Users\BLACK PEARL\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+("C:\Users\BLACK PEARL\AppData\Roaming\MiKTeX\2.9\tex/context/base\supp-pdf.mki
+i"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2019-12-09 v2.10 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 15.
+[1
+
+{C:/Users/BLACK PEARL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 4
+5.
+
+("C:\Users\BLACK PEARL\AppData\Roaming\MiKTeX\2.9\tex/latex/psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--74
+
+ []
+
+<schematic.jpg, id=7, 412.54124pt x 270.25969pt>
+File: schematic.jpg Graphic file (type jpg)
+<use schematic.jpg>
+Package pdftex.def Info: schematic.jpg  used on input line 75.
+(pdftex.def)             Requested size: 247.52666pt x 162.15706pt.
+[2]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 T
+      his system is broadly divided into processing units and distribution u...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+<block1082.png, id=12, 428.35031pt x 398.99063pt>
+File: block1082.png Graphic file (type png)
+<use block1082.png>
+Package pdftex.def Info: block1082.png  used on input line 96.
+(pdftex.def)             Requested size: 342.68071pt x 319.19293pt.
+[3 <./schematic.jpg>]
+<flow1.jpg, id=17, 399.74344pt x 398.99063pt>
+File: flow1.jpg Graphic file (type jpg)
+<use flow1.jpg>
+Package pdftex.def Info: flow1.jpg  used on input line 98.
+(pdftex.def)             Requested size: 319.79517pt x 319.19293pt.
+ [4 <./block1082.png>]
+<flow2.jpg, id=22, 444.91219pt x 173.14688pt>
+File: flow2.jpg Graphic file (type jpg)
+<use flow2.jpg>
+Package pdftex.def Info: flow2.jpg  used on input line 99.
+(pdftex.def)             Requested size: 355.93022pt x 138.51768pt.
+
+Overfull \hbox (10.93022pt too wide) in paragraph at lines 99--99
+ [] 
+ []
+
+[5 <./flow1.jpg> <./flow2.jpg>]
+Overfull \hbox (27.05606pt too wide) in paragraph at lines 118--120
+[]\OT1/ptm/m/n/10 Mid-day Meal Scheme https://en.wikipedia.org/wiki/Midday[]Mea
+l[]Scheme?wprov=sfla1 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--124
+[]\OT1/ptm/m/n/10 https://www.mouser.in/Sensors/Flow-Sensors/[]/N-
+ []
+
+
+Overfull \hbox (134.4766pt too wide) in paragraph at lines 122--124
+\OT1/ptm/m/n/10 zqi2?gclid=Cj0KCQiAno[]uBRC1ARIsAB496IWJ6SUidpV4XQebI90Eyus[]uR
+[]rJpTio8QTyqESkpekAV0lMC6otX 
+ []
+
+[6] (TEAM_1082.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1114 strings out of 492483
+ 14781 string characters out of 3130238
+ 78002 words of memory out of 3000000
+ 5483 multiletter control sequences out of 15000+200000
+ 14890 words of font info for 34 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,6n,23p,226b,195s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/BLACK PEARL/AppDat
+a/Roaming/MiKTeX/2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/BLACK PEARL/App
+Data/Roaming/MiKTeX/2.9/fonts/type1/urw/times/utmr8a.pfb>
+Output written on TEAM_1082.pdf (6 pages, 202215 bytes).
+PDF statistics:
+ 40 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
